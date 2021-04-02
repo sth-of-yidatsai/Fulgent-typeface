@@ -1,6 +1,5 @@
-Copyright (c) <2021>, <TSAI,YI-DA>,
+Copyright (c) 2021, TSAI,YI-DA,
 with Reserved Font Name <Fulgent Display>.
-
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
