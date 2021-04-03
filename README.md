@@ -2,6 +2,10 @@
 
 <img src="IMAGES/images_01.png">
 
+****
+
+<img src="IMAGES/images_02.png">
+
 ## About
 *
 *
