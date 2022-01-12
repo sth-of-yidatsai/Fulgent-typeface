@@ -1,0 +1,12 @@
+/* Webfont: Fulgent-Regular */@font-face {
+    font-family: 'Fulgent';
+    src: url('fulgent.eot'); /* IE9 Compat Modes */
+    src: url('fulgent.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fulgent.woff') format('woff'), /* Modern Browsers */
+         url('fulgent.woff2') format('woff2'), /* Modern Browsers */
+         url('fulgent.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
