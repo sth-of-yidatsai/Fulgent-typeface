@@ -21,10 +21,9 @@
 
 ## Designer
 * sth_of_yidatsai
-
-  → [Instagram](https://www.instagram.com/sth_of_yidatsai/)
-
+  
   → [Behance](https://www.behance.net/sth_of_yidatsai/projects)
+  
 ## License
 
 * Fulgent is licensed under the [SIL Open Font License](license.txt), Version 1.1.
