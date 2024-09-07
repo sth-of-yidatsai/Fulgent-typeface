@@ -22,7 +22,7 @@
 ## Designer
 > yida-tsai
 > <br/>
-> 平面設計作品｜[Behance](https://www.behance.net/sth_of_yidatsai)
+> [Behance](https://www.behance.net/sth_of_yidatsai)
   
 ## License
 
@@ -30,3 +30,7 @@
 
 * This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
+
+---
+
+© 2021 蔡易達 | [我的 GitHub](https://github.com/sth-of-yidatsai) | [回到專案總覽](https://github.com/sth-of-yidatsai/My-Project-Dashboard/tree/main)
