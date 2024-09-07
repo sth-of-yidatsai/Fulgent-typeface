@@ -20,9 +20,9 @@
 * Fulgent is a font independently crafted by designer yidatsai; it currently contains the uppercase and lowercase English letters, numbers, and basic symbols, as well as ligatures. It is now version 1.0 and only available for English.
 
 ## Designer
-* sth_of_yidatsai
-  
-  → [Behance](https://www.behance.net/sth_of_yidatsai/projects)
+> yida-tsai
+> <br/>
+> 平面設計作品｜[Behance](https://www.behance.net/sth_of_yidatsai)
   
 ## License
 
