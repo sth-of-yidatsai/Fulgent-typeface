@@ -1,4 +1,4 @@
-# Fulgent-typeface
+# Fulgent v1.0
 
 <img src="IMAGES/image_01.png">
 
